@@ -4,9 +4,6 @@
 
 ## How to build the project:
 
-At first you have to run:
-
-
 At first you have to add all required Packages to 
 composer.json file before running composer install command: 
 
